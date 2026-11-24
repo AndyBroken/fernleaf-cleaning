@@ -7,3 +7,7 @@ One-page landing site for a house cleaning company in Raleigh, NC.
 **Tech:** HTML5, CSS3, vanilla JavaScript — a single file, no build step. Photos: Unsplash.
 
 *Concept / demo project — Fernleaf is a fictional brand. Forms send nothing.*
+
+## License
+
+© 2026 Andrey ([AndyBroken](https://github.com/AndyBroken)). All rights reserved. This is a portfolio demo: you may view it, but not copy or reuse the code or design. See [LICENSE](LICENSE).
